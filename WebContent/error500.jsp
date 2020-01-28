@@ -11,6 +11,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	404 에러입니다!!! <br>
+	500 에러입니다!!! <br>
 </body>
 </html>
